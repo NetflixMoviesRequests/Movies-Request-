@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+Kallufaujibot!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗞𝗮𝗹𝗹𝘂𝗳𝗮𝘂𝗷𝗶𝗯𝗼𝘁!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐅𝐚𝐤𝐡𝐫𝐞+𝐚𝐥𝐚𝐦™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
-  <b> Kallufaujibot</b>
+  <b> 𝗞𝗮𝗹𝗹𝘂𝗳𝗮𝘂𝗷𝗶𝗯𝗼𝘁/b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
